@@ -1,0 +1,132 @@
+{
+  "main": {
+    "hero": {
+      "title": "Your Ideas at Full Velocity.",
+      "description": "Powerful tools to remove friction from the daily lives of creators.",
+      "cta": "Learn More"
+    },
+    "about": {
+      "title": "Empowering Creators.\nEliminating Friction.",
+      "description1": "We provide a comprehensive ecosystem of open-source, cutting-edge tools designed to eliminate the technical and administrative friction that slows down your creative process, saving you time, money and frustration.",
+      "description2": "From automating sales quotes to multidisciplinary product manufacturing: we take care of the boring stuff so you can maintain your momentum and work on building the future.",
+      "mission": {
+        "title": "Our Mission",
+        "description": "To provide creators with a framework of tools and processes that eliminates the need for an advanced technical or administrative foundation to grow and develop their ideas."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "A world where technical complexity and administrative bureaucracy does not deter creators from developing their ideas."
+      },
+      "cta": "Amazing! How?"
+    },
+    "methods": {
+      "title": "How We Do It",
+      "description": "We remove the obstacles between you and your goals with four core approaches that put powerful capabilities in your hands.",
+      "method1": {
+        "title": "An Invisible Helping Hand.",
+        "description": "We act as the team you haven’t hired yet. Our tools fill the gaps in your resources, automating administrative and technical weight so your ideas can take off before you have the headcount."
+      },
+      "method2": {
+        "title": "Transparency First.",
+        "description": "We handle the execution, but you keep the insight. Through intuitive design and deep documentation, we ensure you always understand the how and why behind our systems."
+      },
+      "method3": {
+        "title": "Efficiency Over Fees.",
+        "description": "We thrive when you are sustainable, not by charging for things you can do yourself. By supporting self-hosting and minimizing overhead, we ensure you only spend when external resources are required."
+      },
+      "method4": {
+        "title": "Work Towards Independence.",
+        "description": "We provide a transparent framework that invites you to peek behind the curtain. By teaching you how process-architecture works today, we prepare you to customize and build your own specialized systems tomorrow."
+      },
+      "cta": "Explore our Services!"
+    }
+  },
+  "services": {
+    "manufacturing": {
+      "title": "Manufacturing",
+      "cover-description": "High-quality manufacturing tailored to your needs. From rapid prototyping to production runs, we bring your designs to life with precision and care.",
+      "3d-printing": {
+        "hero": {
+          "title": "3D Printing Services",
+          "subtext": "Fast and precise 3D manufacturing for rapid prototyping, producing complex geometries, low-volume custom parts, and lightweight components.",
+          "image-alt": "3D printer in operation.",
+          "primary-button": "Get started",
+          "secondary-button": "Learn more"
+        },
+        "about": {
+          "title": "Everything you need to bring your ideas to life",
+          "description": "From hobbyist projects to industrial prototypes, we provide the tools and expertise to get the job done right.",
+          "features": {
+            "material": {
+              "title": "Wide Range of Materials",
+              "description": "From PLA to Titanium. Explore our catalogue of materials and colors!"
+
+            },
+            "geometry": {
+              "title": "Complex Geometries",
+              "description": "Full support for intricate designs and challenging shapes."
+            },
+            "speed": {
+              "title": "Rapid Prototyping",
+              "description": "Fast turnaround times to get your ideas into your hands quickly."
+            },
+            "quality": {
+              "title": "Production-Grade Parts",
+              "description": "From functional prototypes to end-use components built to last."
+            }
+          },
+          "cta": "Get a quote"
+        }
+      }
+    },
+    "process-architecture": {
+      "title": "Process Architecture",
+      "cover-description": "From software triggers that handle your data to physical guides for automating manual tasks, we design the workflows that allow your project to run itself while you focus on the vision."
+    },
+    "project-management": {
+      "title": "Project Management",
+      "cover-description": "Empowering you and your team with the knowledge and skills to succeed. Training programs designed to build lasting expertise."
+    },
+    "card": {
+      "cta": "Learn more"
+    }
+  },
+  "error": {
+    "not-found": {
+      "title": "404: Not Found",
+      "description": "We can't seem to find the page you're looking for.",
+      "subtext": "Did you try turning it off and on again?",
+      "back-button": "Go back"
+    },
+    "coming-soon": {
+      "title": "Coming Soon!",
+      "description": "We're working hard to bring you something amazing. This page is currently under construction, but great things are on the way.",
+      "subtext": "Please be patient, as FXST is relatively new!",
+      "back-button": "Go back"
+    }
+  },
+  "navbar": {
+    "buttons": {
+      "services": "Services",
+      "contact": "Contact",
+      "log-in": "Log In"
+    }
+  },
+  "footer": {
+    "about-us": {
+      "title": "About Us",
+      "who-are-we": "Who are we?"
+    },
+    "support": {
+      "title": "Support",
+      "help-center": "Help Center",
+      "status": "Status"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy-policy": "Privacy Policy",
+      "terms-of-service": "Terms of Service"
+    },
+    "copyright-notice": "FXST. All rights reserved."
+  }
+}
