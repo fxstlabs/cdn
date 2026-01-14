@@ -1,0 +1,131 @@
+{
+  "main": {
+    "hero": {
+      "title": "Tus ideas a máxima velocidad.",
+      "description": "Herramientas potentes para eliminar las trabas en el día a día de los creadores.",
+      "cta": "Saber más"
+    },
+    "about": {
+      "title": "Empoderamos a los creadores.\nEliminamos la fricción.",
+      "description1": "Ofrecemos un ecosistema integral de herramientas de código abierto y vanguardia, diseñadas para eliminar los obstáculos técnicos y administrativos que frenan tu proceso creativo, ahorrándote tiempo, dinero y frustraciones.",
+      "description2": "Desde la automatización de cotizaciones hasta la fabricación de productos multidisciplinarios: nosotros nos encargamos de lo aburrido para que no pierdas el impulso y te concentres en construir el futuro.",
+      "mission": {
+        "title": "Nuestra Misión",
+        "description": "Brindar a los creadores un marco de herramientas y procesos que elimine la necesidad de contar con una base técnica o administrativa avanzada para crecer y desarrollar sus ideas."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "description": "Un mundo donde la complejidad técnica y la burocracia administrativa no detengan a los creadores al momento de desarrollar sus proyectos."
+      },
+      "cta": "¡Increíble! ¿Cómo?"
+    },
+    "methods": {
+      "title": "Cómo lo logramos",
+      "description": "Quitamos los obstáculos entre tú y tus metas mediante cuatro enfoques clave que ponen capacidades potentes en tus manos.",
+      "method1": {
+        "title": "Una mano derecha invisible.",
+        "description": "Actuamos como el equipo que aún no has contratado. Nuestras herramientas cubren los huecos en tus recursos, automatizando la carga administrativa y técnica para que tus ideas despeguen antes de que necesites crecer tu nómina."
+      },
+      "method2": {
+        "title": "Transparencia ante todo.",
+        "description": "Nosotros nos encargamos de la ejecución, pero tú mantienes el control. A través de un diseño intuitivo y documentación detallada, nos aseguramos de que siempre entiendas el cómo y el porqué de nuestros sistemas."
+      },
+      "method3": {
+        "title": "Eficiencia sobre tarifas.",
+        "description": "Nuestro éxito depende de que tú seas sustentable, no de cobrarte por cosas que puedes hacer tú mismo. Al fomentar el auto-hospedaje (self-hosting) y reducir los gastos fijos, garantizamos que solo gastes cuando se requieran recursos externos."
+      },
+      "method4": {
+        "title": "Trabajamos para tu independencia.",
+        "description": "Ofrecemos un marco transparente que te invita a ver qué hay detrás del telón. Al enseñarte cómo funciona la arquitectura de procesos hoy, te preparamos para que tú mismo personalices y construyas tus propios sistemas especializados mañana."
+      },
+      "cta": "¡Explora nuestros servicios!"
+    }
+  },
+  "services": {
+    "manufacturing": {
+      "title": "Fabricación",
+      "cover-description": "Fabricación de alta calidad adaptada a tus necesidades. Desde prototipado rápido hasta series de producción, damos vida a tus diseños con precisión y cuidado.",
+      "3d-printing": {
+        "hero": {
+          "title": "Servicios de Impresión 3D",
+          "subtext": "Fabricación 3D rápida y precisa para prototipos, geometrías complejas, piezas personalizadas de bajo volumen y componentes ligeros.",
+          "image-alt": "Impresora 3D en funcionamiento.",
+          "primary-button": "Comenzar",
+          "secondary-button": "Saber más"
+        },
+        "about": {
+          "title": "Todo lo que necesitas para materializar tus ideas",
+          "description": "Desde proyectos personales hasta prototipos industriales, tenemos las herramientas y la experiencia para hacerlo realidad.",
+          "features": {
+            "material": {
+              "title": "Gran variedad de materiales",
+              "description": "Desde PLA hasta Titanio. ¡Explora nuestro catálogo de materiales y colores!"
+            },
+            "geometry": {
+              "title": "Geometrías complejas",
+              "description": "Soporte total para diseños intrincados y formas desafiantes."
+            },
+            "speed": {
+              "title": "Prototipado rápido",
+              "description": "Tiempos de entrega ágiles para que tengas tus ideas en tus manos lo antes posible."
+            },
+            "quality": {
+              "title": "Piezas de grado de producción",
+              "description": "Desde prototipos funcionales hasta componentes finales diseñados para durar."
+            }
+          },
+          "cta": "Cotizar ahora"
+        }
+      }
+    },
+    "process-architecture": {
+      "title": "Arquitectura de Procesos",
+      "cover-description": "Desde disparadores de software que gestionan tus datos hasta guías físicas para automatizar tareas manuales: diseñamos los flujos de trabajo que permiten que tu proyecto funcione solo mientras tú te enfocas en la visión."
+    },
+    "project-management": {
+      "title": "Gestión de Proyectos",
+      "cover-description": "Te empoderamos a ti y a tu equipo con los conocimientos y habilidades para triunfar. Programas de capacitación diseñados para generar experiencia duradera."
+    },
+    "card": {
+      "cta": "Saber más"
+    }
+  },
+  "error": {
+    "not-found": {
+      "title": "404: No se encontró la página",
+      "description": "Parece que no podemos encontrar la página que buscas.",
+      "subtext": "¿Ya intentaste apagarlo y volverlo a prender?",
+      "back-button": "Regresar"
+    },
+    "coming-soon": {
+      "title": "¡Próximamente!",
+      "description": "Estamos trabajando duro para traerte algo increíble. Esta sección está en construcción, pero vienen cosas grandes.",
+      "subtext": "¡Danos un poco de paciencia, FXST es relativamente nuevo!",
+      "back-button": "Regresar"
+    }
+  },
+  "navbar": {
+    "buttons": {
+      "services": "Servicios",
+      "contact": "Contacto",
+      "log-in": "Iniciar sesión"
+    }
+  },
+  "footer": {
+    "about-us": {
+      "title": "Nosotros",
+      "who-are-we": "¿Quiénes somos?"
+    },
+    "support": {
+      "title": "Soporte",
+      "help-center": "Centro de ayuda",
+      "status": "Estado del sistema"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy-policy": "Aviso de privacidad",
+      "terms-of-service": "Términos y condiciones"
+    },
+    "copyright-notice": "FXST. Todos los derechos reservados."
+  }
+}
