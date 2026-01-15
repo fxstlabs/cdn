@@ -1,17 +1,28 @@
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.staticfiles import StaticFiles
-from typing import Annotated
+from fastapi.middleware.cors import CORSMiddleware
 
-from starlette.responses import HTMLResponse
 
 app = FastAPI()
+
+origins = [
+    "http://localhost:3000",
+    "https://www.fxst.tech"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.get("/status")
 def status():
    return {
-       "status": 200,
-       "message": "ok"
+       "online": True
    }
 
 app.mount("/static", StaticFiles(directory="static"), name="static")
